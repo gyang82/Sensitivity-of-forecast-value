@@ -2,3 +2,6 @@ Run the ¡°calhyperd_calAtx_multi.m¡± in folder  to get the pareto fronts of 
 Run the ¡°calhyperd_calAtx_multi.m¡± in folder , but pause at the point with ¡°PnSs(lead,:)=S(Pn(tempn),:)¡±
 Run the calhyperd_calAtx_multi2.m to get the multi-objective and power generation forecast value under different storages, and the rules under different storage and lead time 
 Run the calhyperd_calAtx_multi3 to get the multi-objective and power generation forecast value under different installed capacity, and the rules under different installed capacity and lead time 
+Run the diaoyong2.m to get the operation details of different rules under different installed capacity and lead time
+Run the cal_fig1_2.m to plot the figure with capacity and water supply level under different lead time
+Run the cal_fig2_2.m to get the plot the figure with capacity and water supply level under different lead time
