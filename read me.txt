@@ -1,0 +1,3 @@
+Run the ¡°calhyperd_calAtx_multi.m¡± in folder  to get the pareto fronts of forecast-informed multi-objective reservoir operation with different lead time. 
+Run the ¡°calhyperd_calAtx_multi.m¡± in folder , but pause at the point with ¡°PnSs(lead,:)=S(Pn(tempn),:)¡±
+Run the calhyperd_calAtx_multi2.m to get the multi-objective and power generation forecast value under different storages, and the rules under different storage and lead time 
